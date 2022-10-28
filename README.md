@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bunnybones9000
-- 👀 I’m interested in web dev,python and data science
+- 👀 I’m interested in python dev and data science
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on python and backend projects
 - 📫 How to reach me email, i always respond
