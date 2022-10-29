@@ -6,6 +6,7 @@
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bunnybones9000&theme=darcula&hide_border=true)](https://git.io/streak-stats)
+https://github-readme-streak-stats.herokuapp.com/?user=bunnybones9000
 
 <!---
 bunnybones9000/bunnybones9000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
